@@ -3,3 +3,6 @@
 *.userprefs
 Library
 Temp
+/UnityPackageManager
+/.vs/EmojiText/v15/Server/sqlite3
+/.vs/EmojiText/v15/.suo
